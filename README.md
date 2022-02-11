@@ -12,4 +12,4 @@ I hope this template proves useful to someone, anyone, in need of guidance for t
 
 Mardoqueo Arteaga
 New York, New York
-Spring 2022This is an (UNOFFICIAL) template for the dissertation proposed to Fordham University, Graduate School of Arts and Sciences. This serves as the groundwork for my own dissertation which I compile on Overleaf. 
+Spring 2022
