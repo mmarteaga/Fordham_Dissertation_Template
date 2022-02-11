@@ -11,5 +11,7 @@ I assume the user knows enough LaTeX, bibTeX, and all the packages I have used i
 I hope this template proves useful to someone, anyone, in need of guidance for taking on what seems, at first, an insurmountable task. But you are here, having gone through numerous obstacles, writing your dissertation. In the end, you proved that they were all conquerable heights, one step at a time. 
 
 Mardoqueo Arteaga
+
 New York, New York
+
 Spring 2022
